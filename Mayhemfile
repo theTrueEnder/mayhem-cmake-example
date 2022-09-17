@@ -1,0 +1,5 @@
+oke-example
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
